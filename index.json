@@ -1,0 +1,39 @@
+{
+  "packs": [
+    {
+      "id": "dmz-starter",
+      "name": "DragonMine Z (Ragnarok edition)",
+      "author": "Ragnarok Studios",
+      "version": "2.0.0",
+      "description": "The default DragonMine Z recreation, made entirely with scripts: races, forms, ki techniques, TP training, sagas, masters, bosses and the Time Chamber. Uses the DMZ asset pack.",
+      "file": "packs/dmz-starter-2.0.0.zip",
+      "size": 139717,
+      "sha256": "6b40461a3a8c6c6cbadb37c44322981eb58cdac08e7463d70111b899eab24340",
+      "tags": [
+        "dmz",
+        "starter",
+        "official"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "dmzpack",
+      "name": "DMZ asset pack",
+      "version": "1.0.0",
+      "description": "Every DragonMine Z model, texture, animation and sound, for the DMZ starter and your own projects.",
+      "parts": [
+        {
+          "file": "assets/dmzpack-1.0.0-art.zip",
+          "size": 24685465,
+          "sha256": "7572155ae2ef6ea87b6a68088a3f11c418ade2bdae55e8881e798666ea77a51e"
+        },
+        {
+          "file": "assets/dmzpack-1.0.0-sounds.zip",
+          "size": 65419997,
+          "sha256": "16348ad15baf90a9c957039958413b1552d1c5422d32d12de1b1ce0756416a2c"
+        }
+      ]
+    }
+  ]
+}
