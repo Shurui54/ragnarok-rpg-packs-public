@@ -7,7 +7,7 @@ This is what the **Ragnarok RPG Toolkit** mod downloads from in game. Players ne
 - `assets/`: shared art libraries (models, textures, animations, sounds). The DMZ asset pack is split into two zips
   to stay under GitHub's file size limit.
 
-When a project needs an art library it doesn't have (the DMZ starter needs `dmzpack`), the game asks the player once,
+When a project needs an art library it doesn't have (Dragon Block Ragnarok needs `dmzpack`), the game asks the player once,
 downloads the parts, checks their SHA-256, and unpacks them into `<minecraft folder>/ragnarok_rpg/assetpacks/`.
 Nothing is written outside the Minecraft folder.
 
