@@ -7,8 +7,8 @@
       "version": "2.0.0",
       "description": "Dragon Block Ragnarok: the default DMZ-style game, made entirely with scripts: races, forms, ki techniques, TP training, sagas, masters, bosses and the Time Chamber. Uses the DMZ asset pack.",
       "file": "packs/dragon-block-ragnarok-2.0.0.zip",
-      "size": 378486,
-      "sha256": "6425f5b33817fcfff687a809305dbac34a85247695ac1eb0c61aa85f2eda50c6",
+      "size": 180140,
+      "sha256": "ae3c24eeb8741fd8e9c8b6ccdef080de4503ae03ae2cc003ea1353a6351404a6",
       "tags": [
         "dmz",
         "starter",
