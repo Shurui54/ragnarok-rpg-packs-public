@@ -16,4 +16,4 @@ Rebuild with `tools/publish_packs.py` in the toolkit repo. It writes the zips an
 checksums. Bump the asset version when the art changes, and update `assetPacks: ["dmzpack@<version>"]` in the starter's
 `00_project.js` so players get the update.
 
-DragonMine Z assets belong to their creators; see `CREDITS.txt` in the starter pack.
+Credits for the DMZ art are in `assets/dmzpack/CREDITS.txt` inside the asset pack.

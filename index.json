@@ -5,10 +5,10 @@
       "name": "Dragon Block Ragnarok",
       "author": "Ragnarok Studios",
       "version": "2.0.0",
-      "description": "Dragon Block Ragnarok: the default DragonMine Z-style game, made entirely with scripts: races, forms, ki techniques, TP training, sagas, masters, bosses and the Time Chamber. Uses the DMZ asset pack.",
+      "description": "Dragon Block Ragnarok: the default DMZ-style game, made entirely with scripts: races, forms, ki techniques, TP training, sagas, masters, bosses and the Time Chamber. Uses the DMZ asset pack.",
       "file": "packs/dragon-block-ragnarok-2.0.0.zip",
-      "size": 378944,
-      "sha256": "609fc19fc84affed3b3041a13980bbc2edde6434da1a2946d98bcd33c2e1e1a1",
+      "size": 378486,
+      "sha256": "6425f5b33817fcfff687a809305dbac34a85247695ac1eb0c61aa85f2eda50c6",
       "tags": [
         "dmz",
         "starter",
@@ -25,8 +25,8 @@
       "parts": [
         {
           "file": "assets/dmzpack-1.0.0-art.zip",
-          "size": 24685465,
-          "sha256": "7572155ae2ef6ea87b6a68088a3f11c418ade2bdae55e8881e798666ea77a51e"
+          "size": 24685838,
+          "sha256": "c44c069abc6968901dbf88d6fc712346fff54b4204840d1511b68afb98a4ce04"
         },
         {
           "file": "assets/dmzpack-1.0.0-sounds.zip",
