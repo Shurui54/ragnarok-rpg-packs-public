@@ -1,19 +1,16 @@
 {
-  "packs": [
+  "packs": [],
+  "addons": [
     {
-      "id": "dragon-block-ragnarok",
+      "id": "dragon_block_ragnarok",
       "name": "Dragon Block Ragnarok",
+      "version": "2.1.1",
+      "description": "A DragonMine Z-based game: races, forms, ki techniques, flight, Dragon Balls, sagas, masters and bosses. GPL-3.0.",
       "author": "Ragnarok Studios",
-      "version": "2.1.0",
-      "description": "Dragon Block Ragnarok: the default DMZ-style game, made entirely with scripts: races, forms, ki techniques, TP training, sagas, masters, bosses and the Time Chamber. Uses the DMZ asset pack.",
-      "file": "packs/dragon-block-ragnarok-2.1.0.zip",
-      "size": 155654,
-      "sha256": "91a5d774e764f4d270c0029b8852b8832a22a0246fc71f6f3425427100467422",
-      "tags": [
-        "dmz",
-        "starter",
-        "official"
-      ]
+      "license": "GPL-3.0-or-later",
+      "file": "addons/dragon_block_ragnarok-2.1.1.zip",
+      "size": 168758,
+      "sha256": "62985e6672ddf22401ea986f398899fe357241d7870bac8cc97a13664395d9b2"
     }
   ],
   "assets": [
@@ -21,7 +18,7 @@
       "id": "dmzpack",
       "name": "DMZ asset pack",
       "version": "1.0.0",
-      "description": "Every DragonMine Z model, texture, animation and sound, for the DMZ starter and your own projects.",
+      "description": "Every DragonMine Z model, texture, animation and sound (GPL-3.0, credits inside), used by Dragon Block Ragnarok.",
       "parts": [
         {
           "file": "assets/dmzpack-1.0.0-art.zip",
