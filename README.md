@@ -17,3 +17,15 @@ checksums. Bump the asset version when the art changes, and update `assetPacks: 
 `00_project.js` so players get the update.
 
 Credits for the DMZ art are in `assets/dmzpack/CREDITS.txt` inside the asset pack.
+
+## Licences
+
+Everything in this repository is open source:
+
+- `addons/dragon_block_ragnarok-*.zip`: GPL-3.0-or-later. Each zip carries its own `LICENSE`, and a `NOTICE.md` with
+  credits for DragonMine Z, whose systems it recreates.
+- `assets/dmzpack-*`: art and sounds from DragonMine Z (GPL-3.0-or-later), with credits inside the pack. Two sounds are
+  CC-BY and are credited there too.
+- Anything else here with no licence of its own: GPL-3.0-or-later (see `LICENSE`).
+
+The Ragnarok RPG Toolkit mod itself is closed source and isn't in this repository; it only downloads these files.
