@@ -4,13 +4,13 @@
     {
       "id": "dragon_block_ragnarok",
       "name": "Dragon Block Ragnarok",
-      "version": "4.2.0",
+      "version": "4.2.1",
       "description": "A DragonMine Z-based game: races, forms, ki techniques, flight, Dragon Balls, sagas, masters and bosses. GPL-3.0.",
       "author": "Ragnarok Studios",
       "license": "GPL-3.0-or-later",
-      "file": "addons/dragon_block_ragnarok-4.2.0.zip",
-      "size": 9631093,
-      "sha256": "af1100aeb0968beba3d7e9a9947bc7531f31fe3c2b19cb20be945c2365f921fe"
+      "file": "addons/dragon_block_ragnarok-4.2.1.zip",
+      "size": 9631386,
+      "sha256": "6a7fffd610d696e28bdef8834c01c1fbdf392d2e319369bff3d45a9e65692115"
     }
   ],
   "assets": [
