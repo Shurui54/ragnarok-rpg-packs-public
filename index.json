@@ -4,29 +4,29 @@
     {
       "id": "dragon_block_ragnarok",
       "name": "Dragon Block Ragnarok",
-      "version": "4.3.0",
+      "version": "4.4.0",
       "description": "A DragonMine Z-based game: races, forms, ki techniques, flight, Dragon Balls, sagas, masters and bosses. GPL-3.0.",
       "author": "Ragnarok Studios",
       "license": "GPL-3.0-or-later",
-      "file": "addons/dragon_block_ragnarok-4.3.0.zip",
-      "size": 10205548,
-      "sha256": "810b8f63ae6adfe138f692f87faa559c530d834a139161685d83c3b2dc9a38e1"
+      "file": "addons/dragon_block_ragnarok-4.4.0.zip",
+      "size": 11326972,
+      "sha256": "d185b62739d0705a6eb9b188c65f206ddbf94eab7c1e51472c684a817b696f33"
     }
   ],
   "assets": [
     {
       "id": "dmzpack",
       "name": "DMZ asset pack",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "description": "Every DragonMine Z model, texture, animation and sound (GPL-3.0, credits inside), used by Dragon Block Ragnarok.",
       "parts": [
         {
-          "file": "assets/dmzpack-1.0.0-art.zip",
-          "size": 24685838,
-          "sha256": "c44c069abc6968901dbf88d6fc712346fff54b4204840d1511b68afb98a4ce04"
+          "file": "assets/dmzpack-1.1.0-art.zip",
+          "size": 44825399,
+          "sha256": "fc8de9cde8d42b86f118af1eda5ddde234e6b8dc71d75a59e2947b69ccae45c4"
         },
         {
-          "file": "assets/dmzpack-1.0.0-sounds.zip",
+          "file": "assets/dmzpack-1.1.0-sounds.zip",
           "size": 65419997,
           "sha256": "16348ad15baf90a9c957039958413b1552d1c5422d32d12de1b1ce0756416a2c"
         }
