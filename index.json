@@ -4,13 +4,13 @@
     {
       "id": "dragon_block_ragnarok",
       "name": "Dragon Block Ragnarok",
-      "version": "4.7.0",
+      "version": "4.8.0",
       "description": "A DragonMine Z-based game: races, forms, ki techniques, flight, Dragon Balls, sagas, masters and bosses. GPL-3.0.",
       "author": "Ragnarok Studios",
       "license": "GPL-3.0-or-later",
-      "file": "addons/dragon_block_ragnarok-4.7.0.zip",
-      "size": 12792065,
-      "sha256": "caef19950003f1de3a589e1030ba3ebab9511cd58cb6b5ec649c364dc267be9a"
+      "file": "addons/dragon_block_ragnarok-4.8.0.zip",
+      "size": 17676314,
+      "sha256": "2c7880fa43e41d3708a355c6bd37298fe51641dc587e7be4977e091fefcaa579"
     }
   ],
   "assets": [
@@ -29,6 +29,19 @@
           "file": "assets/dmzpack-1.1.0-sounds.zip",
           "size": 65419997,
           "sha256": "16348ad15baf90a9c957039958413b1552d1c5422d32d12de1b1ce0756416a2c"
+        }
+      ]
+    },
+    {
+      "id": "dungeonpack",
+      "name": "Dungeon Maker art",
+      "version": "1.0.0",
+      "description": "Anchor blocks, menu panels, dungeon cards, buttons and icons for the Dungeon Maker addon (original pixel art).",
+      "parts": [
+        {
+          "file": "assets/dungeonpack-1.0.0.zip",
+          "size": 18795,
+          "sha256": "e3f9599049057f52ab94e43bd898b9d88283b7a146353a4c2c57c6dead3d11fe"
         }
       ]
     }
