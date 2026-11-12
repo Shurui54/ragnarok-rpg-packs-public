@@ -44,6 +44,19 @@
           "sha256": "e3f9599049057f52ab94e43bd898b9d88283b7a146353a4c2c57c6dead3d11fe"
         }
       ]
+    },
+    {
+      "id": "outfitpack",
+      "name": "Outfits art",
+      "version": "1.0.0",
+      "description": "Worn sheets, icons and models of the Tailor's Catalogue outfits and cosmetics used by Dragon Block Ragnarok. Art by Naruke, used with permission (credits in assets/outfitpack/CREDITS.md).",
+      "parts": [
+        {
+          "file": "assets/outfitpack-1.0.0.zip",
+          "size": 1837769,
+          "sha256": "10daf40a8cfd9e69cffdfb6c56fbf6c71b59c6234a553dc5f620370b9f9e0507"
+        }
+      ]
     }
   ]
 }
