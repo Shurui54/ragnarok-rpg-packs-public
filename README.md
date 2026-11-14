@@ -1,6 +1,6 @@
-# Ragnarok RPG Toolkit: public packs
+# Ragnarok Modding Toolkit: public packs
 
-This is what the **Ragnarok RPG Toolkit** mod downloads from in game. Players never need to visit it.
+This is what the **Ragnarok Modding Toolkit** mod downloads from in game. Players never need to visit it.
 
 - `index.json`: the list the in-game Pack Browser reads.
 - `packs/`: whole projects (scripts and docs) that players can try or that servers can use.
@@ -28,4 +28,4 @@ Everything in this repository is open source:
   CC-BY and are credited there too.
 - Anything else here with no licence of its own: GPL-3.0-or-later (see `LICENSE`).
 
-The Ragnarok RPG Toolkit mod itself is closed source and isn't in this repository; it only downloads these files.
+The Ragnarok Modding Toolkit mod itself is closed source and isn't in this repository; it only downloads these files.
