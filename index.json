@@ -4,13 +4,13 @@
     {
       "id": "dragon_block_ragnarok",
       "name": "Dragon Block Ragnarok",
-      "version": "4.13.0",
+      "version": "4.14.0",
       "description": "A DragonMine Z-based game: races, forms, ki techniques, flight, Dragon Balls, sagas, masters and bosses. GPL-3.0.",
       "author": "Ragnarok Studios",
       "license": "GPL-3.0-or-later",
-      "file": "addons/dragon_block_ragnarok-4.13.0.zip",
-      "size": 26222863,
-      "sha256": "5f2b2467e88d6a835f7c1c5281c1ee035b373624812ed00598ee364724e5d13d"
+      "file": "addons/dragon_block_ragnarok-4.14.0.zip",
+      "size": 26298403,
+      "sha256": "43297d752545bab494e04ab3abcc5ebece0391f43b70d9a43e4dbe579ce20f87"
     }
   ],
   "assets": [
@@ -35,13 +35,13 @@
     {
       "id": "dungeonpack",
       "name": "Dungeon Maker art",
-      "version": "1.0.0",
-      "description": "Anchor blocks, menu panels, dungeon cards, buttons and icons for the Dungeon Maker addon (original pixel art).",
+      "version": "1.1.0",
+      "description": "Anchor and puzzle module blocks, switches, chests, dungeon items (keys, hearts, bomb, bow, grapple claw, lantern), menu panels, dungeon cards, buttons and icons for the Dungeon Maker addon (original pixel art).",
       "parts": [
         {
-          "file": "assets/dungeonpack-1.0.0.zip",
-          "size": 18795,
-          "sha256": "e3f9599049057f52ab94e43bd898b9d88283b7a146353a4c2c57c6dead3d11fe"
+          "file": "assets/dungeonpack-1.1.0.zip",
+          "size": 55572,
+          "sha256": "539a6ab4754754925aee1b413a69c45b44c912582a68e52bdc24eab9e07718ce"
         }
       ]
     },
@@ -53,8 +53,8 @@
       "parts": [
         {
           "file": "assets/outfitpack-1.0.1.zip",
-          "size": 1840033,
-          "sha256": "4de729d92992dce51f1499284c432f988cae99d2a1e5082f8358f388f8c7218b"
+          "size": 1840040,
+          "sha256": "9597917433e95df30b0f59f3eba41aa318d58593008e836c49b344d75299c12f"
         }
       ]
     }
