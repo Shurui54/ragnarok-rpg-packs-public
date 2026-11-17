@@ -4,13 +4,13 @@
     {
       "id": "dragon_block_ragnarok",
       "name": "Dragon Block Ragnarok",
-      "version": "4.15.1",
+      "version": "4.16.0",
       "description": "An anime martial-arts RPG: races, forms, ki techniques, flight, Dragon Balls, sagas, masters and bosses. GPL-3.0.",
       "author": "Ragnarok Studios",
       "license": "GPL-3.0-or-later",
-      "file": "addons/dragon_block_ragnarok-4.15.1.zip",
-      "size": 26453215,
-      "sha256": "8ae1f7cb20c6786bdfccb8ca5ed59a811977b2163514105618d34604b5bda443"
+      "file": "addons/dragon_block_ragnarok-4.16.0.zip",
+      "size": 26521872,
+      "sha256": "d013d3c369c307e25a9d9dfe7d0833d77ab14c138a3112c4c9abd67e52b93cc5"
     }
   ],
   "assets": [
