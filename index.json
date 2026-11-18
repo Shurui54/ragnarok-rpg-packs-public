@@ -4,13 +4,35 @@
     {
       "id": "dragon_block_ragnarok",
       "name": "Dragon Block Ragnarok",
-      "version": "4.16.0",
+      "version": "4.16.1",
       "description": "An anime martial-arts RPG: races, forms, ki techniques, flight, Dragon Balls, sagas, masters and bosses. GPL-3.0.",
       "author": "Ragnarok Studios",
       "license": "GPL-3.0-or-later",
-      "file": "addons/dragon_block_ragnarok-4.16.0.zip",
-      "size": 26521872,
-      "sha256": "d013d3c369c307e25a9d9dfe7d0833d77ab14c138a3112c4c9abd67e52b93cc5"
+      "file": "addons/dragon_block_ragnarok-4.16.1.zip",
+      "size": 26524638,
+      "sha256": "4588896a68fe40d311f9ab579f87c55aac55f4e06b8eecc7424cf6832644988b"
+    },
+    {
+      "id": "ragnarok_ambience",
+      "name": "Ragnarok Ambience",
+      "version": "1.0.0",
+      "description": "Soundscapes and sound physics: wind, birds, insects, owls, frogs, gulls, waves, rain and storms, cave drips and rumble, the deep dark, Nether and End drones, all following biome, time, weather, height and the space around you; reverb in caves and halls and sounds muffled through walls. Inspired by and porting Ambient Sounds (LGPL-3.0) and Sound Physics Remastered (GPL-3.0); its own synthesized sounds (ambiencepack). Volumes per group in /rpg config ragnarok_ambience. GPL-3.0.",
+      "author": "Ragnarok Studios",
+      "license": "GPL-3.0-or-later",
+      "file": "addons/ragnarok_ambience-1.0.0.zip",
+      "size": 36514,
+      "sha256": "2aac24a38119598a918ff897fb4fe732b777a57a227be1ab76d15b583dfbf3c2"
+    },
+    {
+      "id": "ragnarok_industry",
+      "name": "Ragnarok Industry",
+      "version": "1.0.0",
+      "description": "Power and automation: solar, combustion, gas and lava heat generators, energy cells, cables, fluid pipes, connected tanks, ender tanks, pumps, a refinery and a fast quarry. Ragnarok Energy (RE) works with other mods' energy cables and machines, 1:1.",
+      "author": "Ragnarok Studios",
+      "license": "Proprietary (see LICENSE)",
+      "file": "addons/ragnarok_industry-1.0.0.zip",
+      "size": 108984,
+      "sha256": "7d33b5ac274d7a34c7535d18b86762504b8233b5c83680f671b8027678baa050"
     }
   ],
   "assets": [
@@ -29,6 +51,19 @@
           "file": "assets/dmzpack-1.1.0-sounds.zip",
           "size": 65419997,
           "sha256": "16348ad15baf90a9c957039958413b1552d1c5422d32d12de1b1ce0756416a2c"
+        }
+      ]
+    },
+    {
+      "id": "ambiencepack",
+      "name": "Ragnarok Ambience sounds",
+      "version": "1.0.0",
+      "description": "Wind, rain and storm, waves, cave, deep dark, Nether and End beds and bird, insect, frog, owl, gull, crow, dove and whale sounds for the Ragnarok Ambience addon, synthesized (no recordings).",
+      "parts": [
+        {
+          "file": "assets/ambiencepack-1.0.0.zip",
+          "size": 6296268,
+          "sha256": "cb5ff1487ad7664c613430792d8f725fd40f3fc0770675428c0634ee7257923f"
         }
       ]
     },
