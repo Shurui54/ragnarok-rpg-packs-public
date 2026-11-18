@@ -4,35 +4,35 @@
     {
       "id": "dragon_block_ragnarok",
       "name": "Dragon Block Ragnarok",
-      "version": "4.16.1",
+      "version": "4.16.2",
       "description": "An anime martial-arts RPG: races, forms, ki techniques, flight, Dragon Balls, sagas, masters and bosses. GPL-3.0.",
       "author": "Ragnarok Studios",
       "license": "GPL-3.0-or-later",
-      "file": "addons/dragon_block_ragnarok-4.16.1.zip",
-      "size": 26524638,
-      "sha256": "4588896a68fe40d311f9ab579f87c55aac55f4e06b8eecc7424cf6832644988b"
+      "file": "addons/dragon_block_ragnarok-4.16.2.zip",
+      "size": 26546427,
+      "sha256": "31a4672a18a56384463c05ca95cc90e361f3d49adbb50c56462293b9bd3cab75"
     },
     {
       "id": "ragnarok_ambience",
       "name": "Ragnarok Ambience",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Soundscapes and sound physics: wind, birds, insects, owls, frogs, gulls, waves, rain and storms, cave drips and rumble, the deep dark, Nether and End drones, all following biome, time, weather, height and the space around you; reverb in caves and halls and sounds muffled through walls. Inspired by and porting Ambient Sounds (LGPL-3.0) and Sound Physics Remastered (GPL-3.0); its own synthesized sounds (ambiencepack). Volumes per group in /rpg config ragnarok_ambience. GPL-3.0.",
       "author": "Ragnarok Studios",
       "license": "GPL-3.0-or-later",
-      "file": "addons/ragnarok_ambience-1.0.0.zip",
-      "size": 36514,
-      "sha256": "2aac24a38119598a918ff897fb4fe732b777a57a227be1ab76d15b583dfbf3c2"
+      "file": "addons/ragnarok_ambience-1.0.1.zip",
+      "size": 36712,
+      "sha256": "9966b2cd5e73637bac37dfb583ace83ea7206f692efa09b394566c96816f7a54"
     },
     {
       "id": "ragnarok_industry",
       "name": "Ragnarok Industry",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Power and automation: solar, combustion, gas and lava heat generators, energy cells, cables, fluid pipes, connected tanks, ender tanks, pumps, a refinery and a fast quarry. Ragnarok Energy (RE) works with other mods' energy cables and machines, 1:1.",
       "author": "Ragnarok Studios",
       "license": "Proprietary (see LICENSE)",
-      "file": "addons/ragnarok_industry-1.0.0.zip",
-      "size": 108984,
-      "sha256": "7d33b5ac274d7a34c7535d18b86762504b8233b5c83680f671b8027678baa050"
+      "file": "addons/ragnarok_industry-1.0.1.zip",
+      "size": 137087,
+      "sha256": "fe166e2599d1dc9900dca3c1f1b51cc40be9d8159260538a829c04d6b35083cf"
     }
   ],
   "assets": [
