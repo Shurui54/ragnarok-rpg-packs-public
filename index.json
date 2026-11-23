@@ -4,13 +4,13 @@
     {
       "id": "dragon_block_ragnarok",
       "name": "Dragon Block Ragnarok",
-      "version": "4.16.2",
+      "version": "4.16.3",
       "description": "An anime martial-arts RPG: races, forms, ki techniques, flight, Dragon Balls, sagas, masters and bosses. GPL-3.0.",
       "author": "Ragnarok Studios",
       "license": "GPL-3.0-or-later",
-      "file": "addons/dragon_block_ragnarok-4.16.2.zip",
-      "size": 26546427,
-      "sha256": "31a4672a18a56384463c05ca95cc90e361f3d49adbb50c56462293b9bd3cab75"
+      "file": "addons/dragon_block_ragnarok-4.16.3.zip",
+      "size": 26546922,
+      "sha256": "0966884a5a32bb6e9940789c9e397858c1967ce9a5f277cdfc197299c52163e6"
     },
     {
       "id": "ragnarok_ambience",
@@ -26,13 +26,211 @@
     {
       "id": "ragnarok_industry",
       "name": "Ragnarok Industry",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "description": "Power and automation: solar, combustion, gas and lava heat generators, energy cells, cables, fluid pipes, connected tanks, ender tanks, pumps, a refinery and a fast quarry. Ragnarok Energy (RE) works with other mods' energy cables and machines, 1:1.",
       "author": "Ragnarok Studios",
       "license": "Proprietary (see LICENSE)",
-      "file": "addons/ragnarok_industry-1.0.1.zip",
-      "size": 137087,
-      "sha256": "fe166e2599d1dc9900dca3c1f1b51cc40be9d8159260538a829c04d6b35083cf"
+      "file": "addons/ragnarok_industry-1.0.2.zip",
+      "size": 137691,
+      "sha256": "aec2c4142ecbc314b828a410a9ba66b342394d4469df9ea4289b4022e47225a1"
+    },
+    {
+      "id": "auction_house",
+      "name": "Auction House",
+      "version": "1.0.0",
+      "description": "A server-wide auction house (/ah or the Auction Block): list your held item with a starting bid and an optional buy-now price, bid, buy, search and sort, and collect sales, refunds and unsold items from the Claim tab. Listing fees, sale tax, listing limits and admin tools.",
+      "author": "Ragnarok Studios",
+      "license": "Proprietary (see LICENSE)",
+      "file": "addons/auction_house-1.0.0.zip",
+      "size": 18909,
+      "sha256": "6ad9927e0e0685963f5f199a3b02217b40f3a560a2b685c4dacb3cab62a0aa24"
+    },
+    {
+      "id": "backpacks",
+      "name": "Backpacks",
+      "version": "1.1.0",
+      "description": "Craftable backpacks in three sizes. Right-click to open, or wear one in the Back slot (B) and open it with J. Each backpack keeps its own items.",
+      "author": "Ragnarok Studios",
+      "license": "Proprietary (see LICENSE)",
+      "file": "addons/backpacks-1.1.0.zip",
+      "size": 6074,
+      "sha256": "50e3a1f291ec43bb520b1c6d8898e998b3b37213077f193a355db86ea76c866d"
+    },
+    {
+      "id": "crates",
+      "name": "Crates",
+      "version": "1.0.0",
+      "description": "Reward crates opened with keys, with a spinning animation and a preview of every reward and its chance.",
+      "author": "Ragnarok Studios",
+      "license": "Proprietary (see LICENSE)",
+      "file": "addons/crates-1.0.0.zip",
+      "size": 6647,
+      "sha256": "f6ba4ff109b7e50cca574d9afb4ca2d301001ede299abf4fe586a9c1d93acac4"
+    },
+    {
+      "id": "dungeon_maker",
+      "name": "Dungeon Maker",
+      "version": "1.0.0",
+      "description": "Build Zelda-style dungeons in game: staff lay them out on private plots in a workshop dimension with module blocks (mob and boss spawners with drop tables, entry and exit, key doors opened by clicking the door itself, small key / boss key / puzzle doors, loot and locked chests, switches, logic gates, bridges) linked together in the editor, then publish. Module blocks never show in a run. Players pick a dungeon in the Dungeon Selection menu (O, or the button in the inventory) and every player or party runs its own copy in a throwaway arena, with run-only keys shared by the party, hearts, and puzzle tools (bow, bombs, grapple claw, lantern). Art: the dungeonpack art pack (asked for automatically).",
+      "author": "Ragnarok Studios",
+      "license": "Proprietary (see LICENSE)",
+      "file": "addons/dungeon_maker-1.0.0.zip",
+      "size": 176242,
+      "sha256": "35fc4c3f29c8b65c3339bd33ed1c26a9caa41c706c26c5f2d1d914da3af17b7a"
+    },
+    {
+      "id": "essentials",
+      "name": "Essentials",
+      "version": "1.0.0",
+      "description": "Server basics: spawn, homes, warps, /tpa, /back, messages, nicknames, kits, economy, AFK and admin tools, with permission groups.",
+      "author": "Ragnarok Studios",
+      "license": "Proprietary (see LICENSE)",
+      "file": "addons/essentials-1.0.0.zip",
+      "size": 10893,
+      "sha256": "687040dd52ec71a26cf60b80730acf5f2d08b3052712a6f3814ddda87a497d4d"
+    },
+    {
+      "id": "guilds",
+      "name": "Guilds",
+      "version": "1.0.0",
+      "description": "Found a guild (/guild), invite members, give ranks permissions, claim chunks on a map and protect them with territory flags. Guild bank, home and warps, guild and ally chat, alliances, truces and enemies, tags in chat and over heads, and guild leaderboards. Works next to Land Claims: a chunk belongs to a player or a guild, never both.",
+      "author": "Ragnarok Studios",
+      "license": "Proprietary (see LICENSE)",
+      "file": "addons/guilds-1.0.0.zip",
+      "size": 33965,
+      "sha256": "3c340ac0c9a3c031d0979e35b43029e063357c1fced640c13bf70dd67a390958"
+    },
+    {
+      "id": "land_claims",
+      "name": "Land Claims",
+      "version": "1.0.0",
+      "description": "Claim chunks on a map (/claims), trust friends, and keep everyone else from breaking, building or using things there.",
+      "author": "Ragnarok Studios",
+      "license": "Proprietary (see LICENSE)",
+      "file": "addons/land_claims-1.0.0.zip",
+      "size": 5096,
+      "sha256": "77cfff6fb7df91b3f043fb24daa8fce3573716ef8eb622649471c0ee6bb54d72"
+    },
+    {
+      "id": "look_hud",
+      "name": "Look HUD",
+      "version": "1.0.0",
+      "description": "A small panel at the top of the screen naming the block or creature under your crosshair: icon, the mod or addon it comes from, the tool it needs and whether you can harvest it, crop growth, redstone power, chest contents, furnace progress, health and armour, tamed animals' owners, NPC factions and roles. Other addons add their own lines. /rpgc lookhud for settings (position, size, what to show); toggle key unbound in Controls. Movable in the HUD editor.",
+      "author": "Ragnarok Studios",
+      "license": "Proprietary (see LICENSE)",
+      "file": "addons/look_hud-1.0.0.zip",
+      "size": 10333,
+      "sha256": "1daf2292c18d88879d216dd7774acc26427defb2f7400d45922f7150f97c5073"
+    },
+    {
+      "id": "lucky_blocks",
+      "name": "Lucky Blocks",
+      "version": "1.0.0",
+      "description": "Break a lucky block for a surprise: loot, mobs, traps, structures and more. Craft with gold around a dropper.",
+      "author": "Ragnarok Studios",
+      "license": "Proprietary (see LICENSE)",
+      "file": "addons/lucky_blocks-1.0.0.zip",
+      "size": 4881,
+      "sha256": "c1cb1f5fa0d0ef06c43d4586d6e3a1c8b8177edb769e4cdc9903ed02ac37fb9f"
+    },
+    {
+      "id": "minimap",
+      "name": "Minimap",
+      "version": "2.4.0",
+      "description": "Minimap and world map that remember explored land, with a mob, animal and player radar and waypoints. M world map, Y show/hide, = and - zoom, N new waypoint, comma waypoint list. Right-click the world map for a menu: create, edit, delete, hide and teleport to waypoints. Waypoint markers in the world, chunk borders on both maps. Shows the server's shared map too when the server shares one.",
+      "author": "Ragnarok Studios",
+      "license": "Proprietary (see LICENSE)",
+      "file": "addons/minimap-2.4.0.zip",
+      "size": 10856,
+      "sha256": "0f03d45754b7f18dd4951a01cfdb04c545289c7ed3a958f37217d7b5254c0da8"
+    },
+    {
+      "id": "npc_maker",
+      "name": "NPC Maker",
+      "version": "1.1.0",
+      "description": "Make NPCs in game, no code: the NPC Wand creates and edits them (looks from any mob or a player skin, a skin link or a player name, stats, combat, factions, paths, roles like trader, follower, transporter, bank and guard), with editors for dialogues, quests, factions and shops, presets you can copy between worlds, an NPC Cloner with server tabs (saved with the world) and client tabs (on your computer, for any world or server), an Entity Deletion Wand for staff (/deletionwand, with undo), quest marks over heads, a quest log (/questlog) and a factions screen (/factions), both also on keys you can bind in Controls. Staff: /npcs or the wand.",
+      "author": "Ragnarok Studios",
+      "license": "Proprietary (see LICENSE)",
+      "file": "addons/npc_maker-1.1.0.zip",
+      "size": 61397,
+      "sha256": "7ea87789095bc200665eac846428b3c065c7187eeaf22e342be04b4481aa866e"
+    },
+    {
+      "id": "player_vaults",
+      "name": "Player Vaults",
+      "version": "1.0.0",
+      "description": "Private storage you can open anywhere: /pv [number]. More vaults with permissions.",
+      "author": "Ragnarok Studios",
+      "license": "Proprietary (see LICENSE)",
+      "file": "addons/player_vaults-1.0.0.zip",
+      "size": 2663,
+      "sha256": "99f4361e79271c47795879e5495bc02ad69c89594650395199357c6a38798e5a"
+    },
+    {
+      "id": "proximity_voice",
+      "name": "Proximity Voice",
+      "version": "1.0.0",
+      "description": "Proximity voice chat on the engine's voice relay: players near you are heard in 3D, fading out with distance. A team channel (scoreboard team, else party) heard at any distance with the channel key, a staff channel for ops, and op commands to mute, deafen and set ranges. /voice for help. Each player turns voice on in their own settings (K > Settings > Voice chat); push-to-talk key in Controls.",
+      "author": "Ragnarok Studios",
+      "license": "Proprietary (see LICENSE)",
+      "file": "addons/proximity_voice-1.0.0.zip",
+      "size": 4630,
+      "sha256": "2dc97f8df18b39cc049bb8543e8030cfc8fd59441cbf790fa053986679580e61"
+    },
+    {
+      "id": "ranks_kits",
+      "name": "Ranks & Kits",
+      "version": "1.0.0",
+      "description": "Make ranks and kits in game with menus. Ranks (/rank): chat and tab prefixes with colour pickers, weight, inheritance, permission toggles, timed ranks for online and offline players. Kits (/kitadmin): capture your inventory or drag items in, cooldowns, costs, one-time and first-join kits; players browse and preview them with /kits.",
+      "author": "Ragnarok Studios",
+      "license": "Proprietary (see LICENSE)",
+      "file": "addons/ranks_kits-1.0.0.zip",
+      "size": 39284,
+      "sha256": "fce65fe0d9a452659938582735caaab3323611a8cbe48db81fa81853b2891983"
+    },
+    {
+      "id": "recipe_viewer",
+      "name": "Recipe Viewer",
+      "version": "2.0.0",
+      "description": "Look up how to make anything, JEI-style: an item list beside every inventory and chest (search by name, @mod/addon, #tooltip, $tag, -exclude), R for an item's recipes and U for its uses (or click / right-click), a recipes window with a tab per category (crafting, furnaces, campfire, stonecutter, smithing, brewing, fuel and script machines like the Pattern Station) whose \"+\" fills an open crafting grid, bookmarks (A), Ctrl+O to hide, and cheat mode for operators. /recipes [item | @category], /uses <item>.",
+      "author": "Ragnarok Studios",
+      "license": "Proprietary (see LICENSE)",
+      "file": "addons/recipe_viewer-2.0.0.zip",
+      "size": 5508,
+      "sha256": "6f104eb0cf5a59c25d409b44a6cedc5d3a1febe25a6271005ab31a7ec07a0d49"
+    },
+    {
+      "id": "simple_storage",
+      "name": "Shurui's Simple Storage",
+      "version": "1.0.0",
+      "description": "A simple storage network and giant chests. Cables and inventory connectors join every chest, barrel or other inventory into one network; a Storage Terminal shows all of it in one searchable, sortable grid (Crafting Terminal with a 3x3 grid that pulls from the network, wireless terminal, filtered connectors, import/export buses). Giant chests are 3x3x3 to 9x9x9 shells of chest walls (wood to obsidian) around a core: one big inventory that joins the network as one. Built for big bases: no scanning every tick.",
+      "author": "Ragnarok Studios",
+      "license": "Proprietary (see LICENSE)",
+      "file": "addons/simple_storage-1.0.0.zip",
+      "size": 6728,
+      "sha256": "f0dc28320f6d52b68d4eea4dbe738e6ba561ebfd24aac81198616dfa13cc383f"
+    },
+    {
+      "id": "trading",
+      "name": "Trading",
+      "version": "1.0.0",
+      "description": "Safe player-to-player trades: /trade <player> (or sneak + right-click a player), both sides offer items and money, both confirm, and the swap happens at once. Offered items are held in escrow, so a disconnect, death, crash or reload hands them back instead of losing or copying them.",
+      "author": "Ragnarok Studios",
+      "license": "Proprietary (see LICENSE)",
+      "file": "addons/trading-1.0.0.zip",
+      "size": 14517,
+      "sha256": "98f576b9dd6680b45667eb135cec2b1caa33c0cfb8f8f49a54594d3c17b27fb3"
+    },
+    {
+      "id": "worldedit",
+      "name": "WorldEdit",
+      "version": "1.0.0",
+      "description": "Fast WorldEdit for builders, following WorldEdit 7's commands: wand selection (wooden axe), navigation (/up /ascend /descend /ceil /thru /jumpto), //set //replace //center //walls //faces //hollow //stack //move //smooth, shapes and //generate, forests and flora, //fill //drain //snow, clipboard, schematics (.schem), brushes and tools, //undo. Edits run in the background a few milliseconds per tick (FastAsyncWorldEdit style), with undo history and a progress bar. //help lists the commands. Operators only by default (permission nodes worldedit.*).",
+      "author": "Ragnarok Studios",
+      "license": "Proprietary (see LICENSE)",
+      "file": "addons/worldedit-1.0.0.zip",
+      "size": 25660,
+      "sha256": "38889b97a1f86b57feec575f82b0859a8e5aabbe5479474a8a2a337b48d636a8"
     }
   ],
   "assets": [
