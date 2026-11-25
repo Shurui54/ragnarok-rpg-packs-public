@@ -84,13 +84,13 @@
     {
       "id": "essentials",
       "name": "Essentials",
-      "version": "1.0.0",
-      "description": "Server basics: spawn, homes, warps, /tpa, /back, messages, nicknames, kits, economy, AFK and admin tools, with permission groups.",
+      "version": "2.0.0",
+      "description": "Server basics: spawn, homes, warps, /tpa, /back, messages, nicknames, economy, AFK and admin tools. Ranks (/rank): one ranks and permissions model with chat and tab prefixes, colour pickers, badges, weight, inheritance, permission toggles and timed ranks. Kits (/kitadmin): capture your inventory or drag items in, cooldowns, costs, one-time and first-join kits; players browse and preview them with /kits.",
       "author": "Ragnarok Studios",
       "license": "Proprietary (see LICENSE)",
-      "file": "addons/essentials-1.0.0.zip",
-      "size": 10893,
-      "sha256": "687040dd52ec71a26cf60b80730acf5f2d08b3052712a6f3814ddda87a497d4d"
+      "file": "addons/essentials-2.0.0.zip",
+      "size": 50424,
+      "sha256": "99de887babf6242b5aff5dda4302ac8cb4b1606619f368b43fe625701d90c1b8"
     },
     {
       "id": "guilds",
@@ -182,14 +182,17 @@
     },
     {
       "id": "ranks_kits",
-      "name": "Ranks & Kits",
-      "version": "1.0.0",
-      "description": "Make ranks and kits in game with menus. Ranks (/rank): chat and tab prefixes with colour pickers, weight, inheritance, permission toggles, timed ranks for online and offline players. Kits (/kitadmin): capture your inventory or drag items in, cooldowns, costs, one-time and first-join kits; players browse and preview them with /kits.",
+      "name": "Ranks & Kits (now part of Essentials)",
+      "version": "2.0.0",
+      "description": "Ranks & Kits is now part of Essentials. This addon only installs Essentials (which has the rank editor /rank and the kit editor /kitadmin); it adds nothing itself.",
       "author": "Ragnarok Studios",
       "license": "Proprietary (see LICENSE)",
-      "file": "addons/ranks_kits-1.0.0.zip",
-      "size": 39284,
-      "sha256": "fce65fe0d9a452659938582735caaab3323611a8cbe48db81fa81853b2891983"
+      "file": "addons/ranks_kits-2.0.0.zip",
+      "size": 1891,
+      "sha256": "a878411446c8c8ca2c9e512d6a6714b858ff64a18e0dca3e25934375341fd5e8",
+      "requires": [
+        "essentials"
+      ]
     },
     {
       "id": "recipe_viewer",
