@@ -4,13 +4,13 @@
     {
       "id": "dragon_block_ragnarok",
       "name": "Dragon Block Ragnarok",
-      "version": "4.18.1",
+      "version": "4.19.0",
       "description": "An anime martial-arts RPG: races, forms, ki techniques, flight, Dragon Balls, sagas, masters and bosses. GPL-3.0.",
       "author": "Ragnarok Studios",
       "license": "GPL-3.0-or-later",
-      "file": "addons/dragon_block_ragnarok-4.18.1.zip",
-      "size": 26581926,
-      "sha256": "3df4b83fec8775a4613add9df958941e02087e00dfbc7929175ec7c1fe1c3418",
+      "file": "addons/dragon_block_ragnarok-4.19.0.zip",
+      "size": 26764748,
+      "sha256": "5818c5cdfb76983b2f51c0353d62f3d3ebf2cdff181ea470c3291a439239517b",
       "requires": [
         "dungeon_maker"
       ]
@@ -219,13 +219,13 @@
     {
       "id": "trading",
       "name": "Trading",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Safe player-to-player trades: /trade <player> (or sneak + right-click a player), both sides offer items and money, both confirm, and the swap happens at once. Offered items are held in escrow, so a disconnect, death, crash or reload hands them back instead of losing or copying them.",
       "author": "Ragnarok Studios",
       "license": "Proprietary (see LICENSE)",
-      "file": "addons/trading-1.0.0.zip",
-      "size": 14517,
-      "sha256": "98f576b9dd6680b45667eb135cec2b1caa33c0cfb8f8f49a54594d3c17b27fb3"
+      "file": "addons/trading-1.0.1.zip",
+      "size": 15243,
+      "sha256": "ff47c0e1aacd01b7e05a44892e5f8bef497d07458f67b11e9c3650185fb7877d"
     },
     {
       "id": "worldedit",
@@ -237,6 +237,17 @@
       "file": "addons/worldedit-1.0.0.zip",
       "size": 25660,
       "sha256": "38889b97a1f86b57feec575f82b0859a8e5aabbe5479474a8a2a337b48d636a8"
+    },
+    {
+      "id": "tiered_storage",
+      "name": "Upgraded Chests & Furnaces",
+      "version": "1.0.0",
+      "description": "Chests by tier (copper 45 slots to netherite 126, a crystal chest that shows its top items through the glass, a blast-proof obsidian chest, even a dirt chest) and furnaces, blast furnaces and smokers by tier (copper to netherite, up to 40x vanilla speed, same fuel per item). Upgrade kits turn a placed chest or furnace into the next tier in place, keeping everything inside. Hoppers and comparators work like vanilla.",
+      "author": "Ragnarok Studios",
+      "license": "Proprietary (see LICENSE)",
+      "file": "addons/tiered_storage-1.0.0.zip",
+      "size": 122515,
+      "sha256": "d481c02aa25dc0fab4259e04ecf3791f4adec06dd2d24f63e9a0c6de74af6bd2"
     }
   ],
   "assets": [
