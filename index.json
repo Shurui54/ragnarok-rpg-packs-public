@@ -241,13 +241,13 @@
     {
       "id": "tiered_storage",
       "name": "Upgraded Chests & Furnaces",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Chests by tier (copper 45 slots to netherite 126, a crystal chest that shows its top items through the glass, a blast-proof obsidian chest, even a dirt chest) and furnaces, blast furnaces and smokers by tier (copper to netherite, up to 40x vanilla speed, same fuel per item). Upgrade kits turn a placed chest or furnace into the next tier in place, keeping everything inside. Hoppers and comparators work like vanilla.",
       "author": "Ragnarok Studios",
       "license": "Proprietary (see LICENSE)",
-      "file": "addons/tiered_storage-1.0.0.zip",
-      "size": 122515,
-      "sha256": "d481c02aa25dc0fab4259e04ecf3791f4adec06dd2d24f63e9a0c6de74af6bd2"
+      "file": "addons/tiered_storage-1.0.1.zip",
+      "size": 135280,
+      "sha256": "c5afca8766370678e75ac9e969db465fc3883993d677b904b50bb6a1668316a1"
     }
   ],
   "assets": [
